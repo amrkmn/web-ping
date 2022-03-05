@@ -11,5 +11,5 @@ urls:
       type: "get"
     - path: "https://glitch247.aytea14.repl.co"
       type: "get"
-    - path: "https://mycolorapi.glitch.me/2ed573.png"
+    - path: "https://color.aytea.ml/4b31d6.png"
       type: "get"
