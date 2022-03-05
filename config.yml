@@ -1,13 +1,15 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-    - path: "https://api.aytea.ml"
-      type: "get"
     - path: "https://shrt.ml"
       type: "get"
-    - path: "https://mycolorapi.glitch.me/2ed573.png"
+    - path: "https://api.aytea.ml"
       type: "get"
-    - path: "https://TelegraphImage.aytee14.repl.co"
+    - path: "https://memeapi.up.railway.app"
+      type: "get"
+    - path: "https://hastebin.up.railway.app"
       type: "get"
     - path: "https://glitch247.aytea14.repl.co"
+      type: "get"
+    - path: "https://mycolorapi.glitch.me/2ed573.png"
       type: "get"
