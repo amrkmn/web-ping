@@ -1,9 +1,9 @@
 # 📖 Summary
-Last updated: **10/3/2022, 7:45:34 PG "Asia/Kuala_Lumpur"**
+Last updated: **10/3/2022, 7:51:53 PG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://shrt.ml](https://shrt.ml) - **Up** (2069ms)
-- `GET` [https://api.aytea.ml](https://api.aytea.ml) - **Up** (532ms)
-- `GET` [https://memeapi.up.railway.app](https://memeapi.up.railway.app) - **Up** (247ms)
-- `GET` [https://hastebin.up.railway.app](https://hastebin.up.railway.app) - **Up** (238ms)
-- `GET` [https://memeapi.aytea14.repl.co](https://memeapi.aytea14.repl.co) - **Up** (298ms)
-- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1636ms)
+- `GET` [https://shrt.ml](https://shrt.ml) - **Up** (1758ms)
+- `GET` [https://api.aytea.ml](https://api.aytea.ml) - **Up** (483ms)
+- `GET` [https://memeapi.up.railway.app](https://memeapi.up.railway.app) - **Up** (235ms)
+- `GET` [https://hastebin.up.railway.app](https://hastebin.up.railway.app) - **Up** (200ms)
+- `GET` [https://memeapi.aytea14.repl.co](https://memeapi.aytea14.repl.co) - **Up** (595ms)
+- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1995ms)
