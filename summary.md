@@ -1,7 +1,7 @@
 # 📖 Summary
-Last updated: **31/3/2022, 1:59:30 PG "Asia/Kuala_Lumpur"**
+Last updated: **31/3/2022, 2:20:35 PG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://shrt.ml](https://shrt.ml) - **Up** (2162ms)
-- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (1209ms)
-- `GET` [https://hst.aytea.ml/](https://hst.aytea.ml/) - **Up** (273ms)
-- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1427ms)
+- `GET` [https://shrt.ml](https://shrt.ml) - **Up** (2582ms)
+- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (792ms)
+- `GET` [https://hst.aytea.ml/](https://hst.aytea.ml/) - **Up** (14489ms)
+- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1667ms)
