@@ -5,7 +5,7 @@ urls:
       type: "get"
     - path: "https://api.aytea.ml"
       type: "get"
-    - path: "https://memeapi.up.railway.app"
+    - path: "https://meme-api.up.railway.app"
       type: "get"
     - path: "https://hastebin.up.railway.app"
       type: "get"
