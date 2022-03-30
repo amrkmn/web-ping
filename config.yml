@@ -3,12 +3,6 @@
 urls:
     - path: "https://shrt.ml"
       type: "get"
-    - path: "https://api.aytea.ml"
-      type: "get"
-    - path: "https://meme-api.up.railway.app"
-      type: "get"
-    - path: "https://hastebin.up.railway.app"
-      type: "get"
     - path: "https://memeapi.aytea14.repl.co"
       type: "get"
     - path: "https://color.aytea.ml/4b31d6.png"
