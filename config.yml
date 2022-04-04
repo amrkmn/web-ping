@@ -3,9 +3,11 @@
 urls:
     - path: "https://shrt.ml"
       type: "get"
-    - path: "https://memeapi.aytea14.repl.co/gimme"
-      type: "get"
     - path: "https://hst.aytea.ml/"
       type: "get"
     - path: "https://color.aytea.ml/4b31d6.png"
+      type: "get"
+    - path: "https://memeapi.aytea14.repl.co/gimme"
+      type: "get"
+    - path: "https://teledrivemy.herokuapp.com/dashboard"
       type: "get"

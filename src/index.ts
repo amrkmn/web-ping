@@ -78,10 +78,7 @@ async function renderSummary(opts: ISummary[]): Promise<void> {
             lastUpdated: `${new Date().toLocaleString("ms", { timeZone: "Asia/Kuala_Lumpur" })} "Asia/Kuala_Lumpur"`,
             state: opts
                 .map(
-                    (x) =>
-                        `- \`${x.type.toUpperCase()}\` [${x.path}](${x.path}) - **${x.up ? "Up" : "Down"}** (${
-                            x.timetaken
-                        }ms)`
+                    (x) => `- \`${x.type.toUpperCase()}\` [${x.path}](${x.path}) - **${x.up ? "Up" : "Down"}** (${x.timetaken}ms)`
                 )
                 .join("\n"),
         };
