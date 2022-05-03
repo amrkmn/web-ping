@@ -1,8 +1,8 @@
 # 📖 Summary
-Last updated: **4/5/2022, 3:59:33 PG "Asia/Kuala_Lumpur"**
+Last updated: **4/5/2022, 4:18:34 PG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://shrt.ml](https://shrt.ml) - **Up** (2305ms)
-- `GET` [https://hst.aytea.ml/](https://hst.aytea.ml/) - **Up** (4294ms)
-- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1439ms)
-- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (742ms)
-- `GET` [https://teledrivemy.herokuapp.com/dashboard](https://teledrivemy.herokuapp.com/dashboard) - **Up** (231ms)
+- `GET` [https://shrt.ml](https://shrt.ml) - **Up** (1951ms)
+- `GET` [https://hst.aytea.ml/](https://hst.aytea.ml/) - **Up** (453ms)
+- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1436ms)
+- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (453ms)
+- `GET` [https://teledrivemy.herokuapp.com/dashboard](https://teledrivemy.herokuapp.com/dashboard) - **Up** (205ms)
