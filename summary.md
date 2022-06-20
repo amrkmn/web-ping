@@ -1,9 +1,9 @@
 # 📖 Summary
-Last updated: **20/6/2022, 7:59:24 PTG "Asia/Kuala_Lumpur"**
+Last updated: **20/6/2022, 8:31:40 PTG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://shrt.ml](https://shrt.ml) - **Down** (190ms)
-- `GET` [https://hst.aytea.ml/](https://hst.aytea.ml/) - **Up** (656ms)
-- `GET` [https://memeapi.aytea.ml/gimme](https://memeapi.aytea.ml/gimme) - **Up** (398ms)
-- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (1723ms)
-- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (385ms)
-- `GET` [https://teledrivemy.herokuapp.com/dashboard](https://teledrivemy.herokuapp.com/dashboard) - **Up** (324ms)
+- `GET` [https://shrt.ml](https://shrt.ml) - **Down** (76ms)
+- `GET` [https://hst.aytea.ml/](https://hst.aytea.ml/) - **Up** (387ms)
+- `GET` [https://memeapi.aytea.ml/gimme](https://memeapi.aytea.ml/gimme) - **Up** (528ms)
+- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Up** (4094ms)
+- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (369ms)
+- `GET` [https://teledrivemy.herokuapp.com/dashboard](https://teledrivemy.herokuapp.com/dashboard) - **Up** (214ms)
