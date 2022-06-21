@@ -19,6 +19,7 @@ const start = async () => {
                 headers: {
                     "User-Agent": url.userAgent || config.userAgent || `Pong [bot]`,
                 },
+                timeout: 120000,
             });
             Logger.log(`Pong ${chalk.blueBright(`${url.path} (${url.type})`)} in ${chalk.grey(`${Date.now() - start}ms`)}`);
             isUp = true;
@@ -77,9 +78,7 @@ async function renderSummary(opts: ISummary[]): Promise<void> {
         const vars = {
             lastUpdated: `${new Date().toLocaleString("ms", { timeZone: "Asia/Kuala_Lumpur" })} "Asia/Kuala_Lumpur"`,
             state: opts
-                .map(
-                    (x) => `- \`${x.type.toUpperCase()}\` [${x.path}](${x.path}) - **${x.up ? "Up" : "Down"}** (${x.timetaken}ms)`
-                )
+                .map((x) => `- \`${x.type.toUpperCase()}\` [${x.path}](${x.path}) - **${x.up ? "Up" : "Down"}** (${x.timetaken}ms)`)
                 .join("\n"),
         };
         Object.entries(vars).forEach(([key, val]) => {
