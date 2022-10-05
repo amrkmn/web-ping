@@ -3,7 +3,8 @@
   "version": "1.1.0",
   "description": "Ping websites at regular intervals using just GitHub Actions!",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "node ./dist/index.js",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",

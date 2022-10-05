@@ -51,7 +51,7 @@ interface IConfig {
 }
 
 async function getConfig(): Promise<IConfig> {
-    const cp = path.join(__dirname, "..", "config.yml");
+    const cp = path.join(__dirname, "../..", "config.yml");
     try {
         const rc = await fs.readFile(cp);
         return ymlp.parse(rc.toString());
@@ -70,8 +70,8 @@ interface ISummary {
 }
 
 async function renderSummary(opts: ISummary[]): Promise<void> {
-    const temp = path.join(__dirname, "template", "summary.md");
-    const out = path.join(__dirname, "..", "summary.md");
+    const temp = path.join(__dirname, "../template", "summary.md");
+    const out = path.join(__dirname, "../..", "summary.md");
     try {
         const rc = await fs.readFile(temp);
         let sum = rc.toString();
