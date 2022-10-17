@@ -11,5 +11,7 @@ urls:
       type: "get"
     - path: "https://memeapi.cyclic.app"
       type: "get"
+    - path: "https://klik.ml/health"
+      type: "get"
     - path: "https://memeapi.aytea14.repl.co/gimme"
       type: "get"
