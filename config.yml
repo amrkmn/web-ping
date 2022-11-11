@@ -1,7 +1,7 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-    - path: "https://lilr.ml"
+    - path: "https://klik.ml/xDvE6dNm"
       type: "get"
     - path: "https://hst.aytea.ml"
       type: "get"
