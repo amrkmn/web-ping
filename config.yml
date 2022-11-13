@@ -1,8 +1,6 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-    - path: "https://klik.ml/xDvE6dNm"
-      type: "get"
     - path: "https://hst.aytea.ml"
       type: "get"
     - path: "https://memeapi.cyclic.app/gimme"
