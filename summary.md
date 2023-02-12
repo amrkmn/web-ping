@@ -1,9 +1,9 @@
 # 📖 Summary
-Last updated: **12/2/2023, 6:37:10 PTG "Asia/Kuala_Lumpur"**
+Last updated: **12/2/2023, 6:43:43 PTG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://hst.aytea.ga](https://hst.aytea.ga) - **Up** (889ms)
-- `GET` [https://memeapi.cyclic.app/gimme](https://memeapi.cyclic.app/gimme) - **Up** (1159ms)
-- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Down** (120007ms)
-- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Up** (891ms)
-- `GET` [https://klik.ml/health](https://klik.ml/health) - **Up** (1156ms)
-- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (948ms)
+- `GET` [https://hst.aytea.ga](https://hst.aytea.ga) - **Up** (4754ms)
+- `GET` [https://memeapi.cyclic.app/gimme](https://memeapi.cyclic.app/gimme) - **Up** (998ms)
+- `GET` [https://color.aytea.ml/4b31d6.png](https://color.aytea.ml/4b31d6.png) - **Down** (120008ms)
+- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Up** (818ms)
+- `GET` [https://klik.ml/health](https://klik.ml/health) - **Up** (1087ms)
+- `GET` [https://memeapi.aytea14.repl.co/gimme](https://memeapi.aytea14.repl.co/gimme) - **Up** (6304ms)
