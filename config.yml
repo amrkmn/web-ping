@@ -11,3 +11,5 @@ urls:
       type: "get"
     - path: "https://klik.ml/health"
       type: "get"
+    - path: "https://dumb.onrender.com"
+      type: "get"
