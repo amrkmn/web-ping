@@ -5,8 +5,6 @@ urls:
       type: "get"
     - path: "https://memeapi.cyclic.app/gimme"
       type: "get"
-    - path: "https://color.aytea.ml/4b31d6.png"
-      type: "get"
     - path: "https://memeapi.cyclic.app"
       type: "get"
     - path: "https://klik.ml/health"
