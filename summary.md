@@ -1,8 +1,8 @@
 # 📖 Summary
-Last updated: **13/4/2023, 5:26:57 PTG "Asia/Kuala_Lumpur"**
+Last updated: **13/4/2023, 5:34:16 PTG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://hst.aytea.ga](https://hst.aytea.ga) - **Up** (779ms)
-- `GET` [https://memeapi.cyclic.app/gimme](https://memeapi.cyclic.app/gimme) - **Up** (1239ms)
-- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Up** (967ms)
-- `GET` [https://klik.ml/health](https://klik.ml/health) - **Up** (1793ms)
-- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (799ms)
+- `GET` [https://hst.aytea.ga](https://hst.aytea.ga) - **Up** (676ms)
+- `GET` [https://memeapi.cyclic.app/gimme](https://memeapi.cyclic.app/gimme) - **Down** (31079ms)
+- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Up** (740ms)
+- `GET` [https://klik.ml/health](https://klik.ml/health) - **Up** (1328ms)
+- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (851ms)
