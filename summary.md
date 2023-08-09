@@ -1,8 +1,8 @@
 # 📖 Summary
-Last updated: **9/8/2023, 9:55:53 PTG "Asia/Kuala_Lumpur"**
+Last updated: **9/8/2023, 10:08:03 PTG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://hastebin.amarkim.in](https://hastebin.amarkim.in) - **Down** (70ms)
-- `GET` [https://memeapi.cyclic.app/gimme](https://memeapi.cyclic.app/gimme) - **Up** (3197ms)
-- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Up** (781ms)
-- `GET` [https://klik.onrender.com/health](https://klik.onrender.com/health) - **Up** (513ms)
-- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (408ms)
+- `GET` [https://hastebin.amarkim.in](https://hastebin.amarkim.in) - **Down** (82ms)
+- `GET` [https://memeapi.cyclic.app/gimme](https://memeapi.cyclic.app/gimme) - **Up** (1036ms)
+- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Up** (1014ms)
+- `GET` [https://klik.onrender.com/health](https://klik.onrender.com/health) - **Up** (396ms)
+- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (393ms)
