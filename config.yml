@@ -1,11 +1,9 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-    - path: "https://hastebin.amarkim.in"
+    - path: "https://hastebin.ujol.dev"
       type: "get"
-    - path: "https://memeapi.cyclic.app/gimme"
-      type: "get"
-    - path: "https://memeapits.aytea14.repl.co/gimme"
+    - path: "https://memeapi.ujol.dev"
       type: "get"
     - path: "https://memeapi.cyclic.app"
       type: "get"
