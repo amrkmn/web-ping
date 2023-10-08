@@ -3,7 +3,7 @@
 urls:
     - path: "https://hastebin.ujol.dev"
       type: "get"
-    - path: "https://memeapi.ujol.dev"
+    - path: "https://reddviz.ujol.dev"
       type: "get"
     - path: "https://memeapi.cyclic.app"
       type: "get"
