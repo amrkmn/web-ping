@@ -1,7 +1,7 @@
 # Refer https://github.com/zyrouge/pong#configuration for documentation
 
 urls:
-    - path: "https://hastebin.ujol.dev"
+    - path: "https://hst.ujol.dev"
       type: "get"
     - path: "https://reddviz.ujol.dev"
       type: "get"
