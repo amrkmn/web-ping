@@ -1,8 +1,8 @@
 # 📖 Summary
-Last updated: **15/5/2024, 6:33:58 PTG "Asia/Kuala_Lumpur"**
+Last updated: **15/5/2024, 6:40:16 PTG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://hst.ujol.dev](https://hst.ujol.dev) - **Up** (450ms)
-- `GET` [https://reddviz.ujol.dev](https://reddviz.ujol.dev) - **Up** (537ms)
-- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Down** (138ms)
-- `GET` [https://klik.onrender.com/health](https://klik.onrender.com/health) - **Up** (257ms)
-- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (267ms)
+- `GET` [https://hst.ujol.dev](https://hst.ujol.dev) - **Up** (574ms)
+- `GET` [https://reddviz.ujol.dev](https://reddviz.ujol.dev) - **Up** (602ms)
+- `GET` [https://memeapi.cyclic.app](https://memeapi.cyclic.app) - **Down** (101ms)
+- `GET` [https://klik.onrender.com/health](https://klik.onrender.com/health) - **Up** (317ms)
+- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (328ms)
