@@ -27,6 +27,6 @@ jobs:
                   git commit -m "🗒️ Updated Summary"                  
 
             - name: 🚀 Push changes
-              uses: ad-m/github-push-action@master
+              uses: https://github.com/ad-m/github-push-action@master
               with:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
