@@ -29,4 +29,4 @@ jobs:
             - name: 🚀 Push changes
               uses: https://github.com/ad-m/github-push-action@master
               with:
-                  github_token: ${{ secrets.TOKEN }}
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
