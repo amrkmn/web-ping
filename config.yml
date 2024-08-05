@@ -3,7 +3,9 @@
 urls:
     - path: "https://hst.ujol.dev"
       type: "get"
-    - path: "https://reddviz.ujol.dev"
+    - path: "https://reddviz.deno.dev/gimme"
+      type: "get"
+    - path: "https://reddviz.amar.kim/gimme"
       type: "get"
     - path: "https://dumb.onrender.com"
       type: "get"
