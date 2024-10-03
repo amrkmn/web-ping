@@ -1,7 +1,7 @@
 # 📖 Summary
-Last updated: **3/10/2024, 11:44:53 PG "Asia/Kuala_Lumpur"**
+Last updated: **3/10/2024, 11:51:11 PG "Asia/Kuala_Lumpur"**
 
-- `GET` [https://hst.ujol.dev](https://hst.ujol.dev) - **Up** (557ms)
-- `GET` [https://reddviz.deno.dev/gimme](https://reddviz.deno.dev/gimme) - **Up** (1659ms)
-- `GET` [https://reddviz.amar.kim/gimme](https://reddviz.amar.kim/gimme) - **Up** (329ms)
-- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (336ms)
+- `GET` [https://hst.ujol.dev](https://hst.ujol.dev) - **Up** (760ms)
+- `GET` [https://reddviz.deno.dev/gimme](https://reddviz.deno.dev/gimme) - **Up** (3218ms)
+- `GET` [https://reddviz.amar.kim/gimme](https://reddviz.amar.kim/gimme) - **Up** (517ms)
+- `GET` [https://dumb.onrender.com](https://dumb.onrender.com) - **Up** (374ms)
